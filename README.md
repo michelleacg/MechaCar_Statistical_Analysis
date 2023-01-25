@@ -49,4 +49,9 @@ Suspension_Coil.csv
 
 
 
-- Design a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers. For each statistical analysis, you’ll write a summary interpretation of the findings.
+## Study Design: MechaCar vs Competition.
+
+- Metrics to be tested
+- Null hypothesis or alternative hypothesis?
+- Statistical test used to test the hypothesis
+- What data is needed to run the statistical test?
