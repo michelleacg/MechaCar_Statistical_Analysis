@@ -12,24 +12,28 @@ Jeremy has been working with AutosRUs for 10 years, with his strong internal  co
 ## Resources
 
 RStudio
+
 MechaCar_Mpg.csv
+
 Suspension_Coil.csv
 
 ## Deliverables 
 
-Linear Regression to Predict MPG
-- Perform multiple linear regression analysis to identify which variables in the dataset predict the mpg of MechaCar prototypes.
+# **Linear Regression to Predict MPG**
+
+**- Perform multiple linear regression analysis to identify which variables in the dataset predict the mpg of MechaCar prototypes.**
 
 ![Screen Shot 2023-01-25 at 3 12 15 PM](https://user-images.githubusercontent.com/111101012/214712896-4eb9c57b-141c-406a-aa69-a246660e5c11.png)
 
-- Collect summary statistics on the pounds per square inch (PSI) of the suspension coils from the manufacturing lots.
+**- Collect summary statistics on the pounds per square inch (PSI) of the suspension coils from the manufacturing lots.**
 
 ![Screen Shot 2023-01-25 at 3 13 17 PM](https://user-images.githubusercontent.com/111101012/214713043-2934ccb3-5c4e-4a3a-8a59-5322aa3d406d.png)
 ![Screen Shot 2023-01-25 at 3 13 36 PM](https://user-images.githubusercontent.com/111101012/214713074-6a1317de-e516-43ac-982a-0a33a65b6373.png)
 
 
 ## T-Tests on Suspension Coils
-Run t-tests to determine if the manufacturing lots are statistically different from the mean population.
+
+**Run t-tests to determine if the manufacturing lots are statistically different from the mean population.**
 
 **Lot1 Test Results**
 
