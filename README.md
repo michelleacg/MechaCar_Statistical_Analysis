@@ -8,7 +8,7 @@ Statistics and R
 
 Jeremy has been working with AutosRUs for 10 years, with his strong internal  connections and exhaustive knowledge of the product has been selected as the primary analyst for the company's data analytics team. The data analytics team is in charge of performing retrospective analysis of historical data, analytical verification, and validation of current automotive specifications, and study design of future product testing. The AutosRUs executive team recognizes that the most successful automobile launches utilize data analytics in every decision making process. Therefore, Jeremy must ensure that his analyses contain a statistical backbone, a quantitative metric, and clear interpretation of the results in order to keep upper management happy. Additionally, the AutosRUs team consists of five members who only know how to program using R so Jeremy will need to learn a new language in order to perform those statistical tests. 
 
-##Deliverables 
+## Deliverables 
 
 - Perform multiple linear regression analysis to identify which variables in the dataset predict the mpg of MechaCar prototypes.
 
